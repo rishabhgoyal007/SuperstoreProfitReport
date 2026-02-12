@@ -82,6 +82,8 @@ The analysis follows a structured storytelling approach:
 * Pandas & NumPy
 * Matplotlib / Seaborn
 * Jupyter Notebook
+* Microsoft Powwer BI
+* DAX
 
 ---
 
