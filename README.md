@@ -8,7 +8,7 @@ This project analyzes the Superstore dataset to identify **profit drivers, loss-
 
 ---
 
-## 🎯 Objectives
+## 🎯 Objectives 
 
 * Analyze sales and profit trends across time, regions, and categories
 * Identify high- and low-performing product segments
