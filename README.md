@@ -1,3 +1,4 @@
+
 # 📊 Superstore Profit Report
 
 ## 🧩 Problem Statement
